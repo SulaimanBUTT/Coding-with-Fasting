@@ -1,4 +1,4 @@
-class Solution {
+class RomToInt {
     public int romanToInt(String s) {
         Map<Character , Integer > n = new HashMap<>();
 
